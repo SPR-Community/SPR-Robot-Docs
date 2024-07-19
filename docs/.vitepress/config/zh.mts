@@ -35,7 +35,7 @@ export const zh = defineConfig({
             { text: '🔧 编写第一个插件', link: '/guide/improve/template-plugins' },
             { text: '📜 日志处理', link: '/guide/improve/logger' },
             { text: '📄 自定义配置', link: '/guide/improve/config' },
-            { text: '⚡ 事件装饰器能提供的参数', link: '/guide/improve/event_process' },
+            { text: '⚡ 装饰器能提供的参数', link: '/guide/improve/event_process' },
             { text: '📓 Event工具', link: '/guide/improve/event' },
           ]
         }],
